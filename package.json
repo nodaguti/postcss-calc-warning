@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "postcss-calc": "^6.0.1",
-    "postcss-cli": "^6.0.0",
+    "postcss-calc": "^7.0.0",
+    "postcss-cli": "^6.0.1",
     "postcss-import": "^12.0.0"
   }
 }
